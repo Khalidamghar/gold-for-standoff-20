@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVxwNxn.jpg",
+      "title": "gold for standoff 20 1",
+        "text_Content": "Gold is a highly sought after precious metal with a long and storied history. Its use dates back to ancient times, where it was used for both decorative and practical purposes. Today, gold continues to be highly valued for its unique properties and is used in a wide range of applications.",
+        "text_Content_1": ."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVxwjDX.jpg",
+      "title": "gold for standoff 20 2",
+        "text_Content": "In the gaming world, gold is often used as a virtual currency or reward for completing challenges or achieving certain goals. This is certainly the case in Standoff 2, a popular first-person shooter game where players can earn gold to purchase in-game items and upgrades.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVxwOVs.jpg",
+      "title": "gold for standoff 20 3",
+        "text_Content": "In the gaming world, gold is often used as a virtual currency or reward for completing challenges or achieving certain goals. This is certainly the case in Standoff 2, a popular first-person shooter game where players can earn gold to purchase in-game items and upgrades.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVxwhNt.jpg",
+      "title": "gold for standoff 20 4",
+        "text_Content": "Gold is also highly valued because of its physical properties. It is one of the most malleable and ductile metals, meaning it can be easily shaped and formed into a variety of different shapes and sizes. It is also highly resistant to corrosion and does not react with most other chemicals, making it an ideal material for use in jewelry and other decorative applications.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVxwXRI.jpg",
+      "title": "gold for standoff 20 5",
+        "text_Content": "But gold’s unique properties extend beyond its physical characteristics. Gold is also an excellent conductor of electricity, making it an essential component in many electronic devices. It is also highly reflective, making it a popular material for use in mirrors and other reflective surfaces.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVxwGlR.jpg",
+      "title": "gold for standoff 20 6",
+        "text_Content": "In Standoff 2, gold is used primarily as a virtual currency that can be earned through completing various tasks and objectives within the game. Players can then use this gold to purchase new weapons, upgrades, and other in-game items that can give them an advantage over their opponents.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVxwMSp.jpg",
+      "title": "gold for standoff 20 7",
+        "text_Content": "The use of virtual currency like gold in games like Standoff 2 is not unique. In fact, it has become a popular trend in the gaming world over the past decade. This is because it allows players to earn rewards and unlock new content without having to spend real money. It also creates a sense of progression and accomplishment within the game, as players can see their virtual currency balance grow as they complete tasks and achieve goals.",
+        "text_Content_1": ""
 
 
 
